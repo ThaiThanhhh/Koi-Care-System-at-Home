@@ -1,0 +1,90 @@
+/* Reset cơ bản */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Thiết lập font và màu nền cơ bản */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1478A6;
+    color: #fff;
+}
+
+/* Phần ảnh đầu trang */
+#img-first {
+    width: 100%;
+    height: 50vh; /* Chiếm nửa chiều cao màn hình */
+    overflow: hidden;
+}
+
+#img-first img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Giữ tỉ lệ hình ảnh */
+}
+
+/* Section sản phẩm */
+.product-section {
+    display: flex;
+    justify-content:left ;
+    margin: 2em 10%;
+    
+}
+
+.product-card {
+    background-color: #034159;
+    border-radius: 8px;
+    padding: 1em;
+    width: 250px; /* Đặt kích thước cho khung sản phẩm */
+    text-align: left;
+}
+
+/* Ảnh cá */
+.img-fish {
+    width: 100%;
+    margin-top:0; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+.img-fish img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* Thông tin sản phẩm */
+.product-info h1 {
+    font-size: 1.4rem;
+    margin-left: 10px; 
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+button {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.8em 0.8em;
+    margin-bottom: 10%;
+    border: none;
+    background-color: #2a9d8f;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    transition: background-color 0.5s;
+}
+
+button:hover {
+    background-color: #147CA6;
+}
+
+/* Chi tiết sản phẩm */
+.product-details p {
+    font-size: medium;
+    margin: 0.2rem 0;
+    color: #d1d1d1;
+}
