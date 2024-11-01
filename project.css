@@ -1,146 +1,138 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
-html {
-font-family: Arial, Helvetica, sans-serif;
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
 }
-body{
-    background-image: url(...);
+
+body {
     background-size: cover;
-    background-position:calc();
+    background-position: center;
     background-repeat: no-repeat;
-    background-color:  #736969;
-    ;
-
-}
-#main{
-
+    background-color: #736969;
 }
 
-#header{
-max-width: 2000px;
-height: 300px;
-width: 100vw;
-background-color: #147CA6;
-margin: 0 auto; 
-padding: 20px;
-position: absolute;
-position: relative;
+#main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-
-#header-top{
-    background-color: #034159;
-    width: 100vw;
+#header {
+    height: 180px;
+    width: 100%;
+    background-color: #147CA6;
+}
+/*-------------------------------------------*/
+#header-top {
     height: 50px;
-    left: 0;
-    top:0;
-    position: relative;
-    position: absolute;
-   
-}
-#header-top div{
-    width: 280px;
-    height: 50px;
-    position: absolute;
-    color: white;
-}
-#header-top a{
-    color: white;
-}
-#sodienthoai{
-    top: 15px;
-    color: white;
-    left: 150px;
-    margin: 0;
-    position: absolute;
-    white-space: nowrap;    
-    font-size: large;
-}
-#diachi{
-    top: 15px;
-    color: white;
-    left: 600px;
-    position: absolute; 
-    white-space: nowrap;    
-    font-size: large;
-
-}
-#dieukhoanchinhsach{
-    top: 15px;
-    left: 1300px;
-    margin: 0;
-    position: absolute;
-    white-space: nowrap;  
-    font-size: large;
-  
-}
-
-
-#dangnhapdangki{
-    top: 15px;
-    right:100px;
-    margin: 0;
-    font-size: large;
-
-}
-/* ---------------------------------------- */
-#header-main{
-    position: relative;
-    display: flex; 
-    justify-content: space-around; 
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    background-color: #034159;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
 }
-#header-main a{
+
+#header-top p, #header-top a {
+    margin: 0;
+    padding: 0 10px;
+    color: #f9f9f9;
     text-decoration: none;
-    font-size: 80px; 
-    color:black;
-    top:70px;
-} 
-#fb{
-    position: absolute;
-    right: 800px;
-
-}  
-
-#ig{
-    position: absolute;
-    right: 700px;
-
 }
 
-#yt{
-    position: absolute;
-    right: 600px;
-
-}
-
-#tw{
-    position: absolute;
-    right: 500px;
-
-}
-
-form#search {
+#sodienthoai, #diachi {
     display: flex;
     align-items: center;
+    font-size: 14px;
 }
 
-form#search input[type="text"] {
-    position: absolute;
+#sodienthoai i, #diachi i, #dieukhoanchinhsach i, #dangnhap i, #dangki i {
+    margin-right: 6px;
+    color: #ffd700;
+}
+
+#dieukhoanchinhsach {
+    font-size: 14px;
+    margin-left: auto;
+    color: #f9f9f9;
+}
+
+#dangnhapdangki {
+    font-size: 14px;
+}
+
+#dangnhapdangki a {
+    color: #f9f9f9;
+    padding: 0 5px;
+}
+
+#dangnhapdangki a:hover {
+    color: #ffd700;
+}
+
+#header-top a:hover {
+    color: #ffd700;
+    text-decoration: underline;
+}
+
+#header-top p, #header-top a {
+    font-size: 14px;
+    color: white;
+}
+
+#dangnhapdangki a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+/*-------------------------------------------*/
+#header-main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: relative;
+}
+
+#header-main {
+    height: 100px;
+    display: flex;
+    gap: 20px;
+}
+#header-main-container img{
+    height: 10  S0px;
+    width: 100px;
+
+}
+
+#social a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+#search {
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+}
+
+#search input[type="text"] {
     padding: 10px;
-    font-size: 16px;
+    height: 50px;
+    width: 500px;
     border: 1px solid #ccc;
     border-radius: 5px 0 0 5px;
-    right: 250px;
-    top: 115px;
 }
 
-form#search button {
+#search button {
     padding: 10px;
     background-color: #147CA6;
     border: none;
@@ -148,34 +140,59 @@ form#search button {
     border-radius: 0 5px 5px 0;
     cursor: pointer;
 }
-
-form#search button i {
-    font-size: 16px;
+#test{
+    background: linear-gradient(90deg, #034159, #147CA6);
+    padding: 20px 80px;
+    width: 1100px; 
+    margin: 0 auto; 
+    border-radius: 90px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
 }
-/* ---------------------------------------- */
-#header-bot{
-    background-color: #034159;
+
+/*-------------------------------------------*/
+/* #header-bot {
+    background: linear-gradient(90deg, #034159, #147CA6);
+    padding: 20px 80px;
+    width: 1100px; 
+    margin: 0 auto; 
+    border-radius: 90px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+} */
+
+#nav {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+#nav li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 15px;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+}
+
+#nav li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #FFD700;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+#slider {
     width: 100%;
-    height: 70px;
-    position: absolute ;
-    bottom: 0;
-    left: 0;
-    
-}
-#nav{
-    text-align: center;
-    white-space: nowrap;    
-
-}
-/* ---------------------------------------- */
-#slider{
-
+    overflow: hidden;
 }
 
-#content{
-
-}
-
-#footer{
-
+#slider img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
