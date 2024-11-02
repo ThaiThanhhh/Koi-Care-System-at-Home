@@ -10,11 +10,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #1478A6;
     color: #fff;
+    overflow-x: hidden; /*Ngăn chặn việc background bị cuộn ngang*/
 }
 
 /* Phần ảnh đầu trang */
 #img-first {
-    width: 100%;
+    width: 100vw;
     height: 50vh; /* Chiếm nửa chiều cao màn hình */
     overflow: hidden;
 }
@@ -31,6 +32,8 @@ body {
     justify-content: center; /* Căn giữa các thẻ */
     gap: 100px; /* Khoảng cách giữa các thẻ */
     padding: 20px 0;
+    max-width: 1200px;
+    margin: 0 auto;
 
 }
 
@@ -64,6 +67,9 @@ body {
     font-size: 1.4rem;
     margin-bottom: 10px;
     color: #ffffff;
+    font-weight: bold;
+    font-size: 1.35rem;
+     margin-left: 30px;
 }
 
 button {
@@ -72,7 +78,7 @@ button {
     padding: 0.8em 0.8em;
     margin-bottom: 10%;
     border: none;
-    background-color: #2a9d8f;
+    background-color: #147CA6;
     color: #fff;
     border-radius: 5px;
     cursor:pointer;
@@ -88,4 +94,8 @@ button:hover {
     font-size: medium;
     margin: 0.2rem 0;
     color: #d1d1d1;
+}
+.product-info a{
+    margin-left: 3rem;
+    margin-bottom: 2rem;
 }
