@@ -1,0 +1,34 @@
+﻿@model List<KoiCareSystem.Models.Koi>
+
+<h1>Quản lý Cá Koi</h1>
+<a href="/Koi/Create" class="btn btn-primary">Thêm Cá Koi Mới</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Tuổi</th>
+            <th>Chiều Dài</th>
+            <th>Trọng Lượng</th>
+            <th>Giống</th>
+            <th>Nguồn gốc xuất sứ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var koi in Model)
+
+        {
+            <tr>
+                <td>@koi.Name</td>
+                <td>@koi.Age</td>
+                <td>@koi.Length</td>
+                <td>@koi.Weight</td>
+                <td>@koi.Breed</td>
+                <td>
+                    <a href="/Koi/Edit/@koi.Id" class="btn btn-warning">Sửa</a>
+                    <a href="/Koi/Delete/@koi.Id" class="btn btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
