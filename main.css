@@ -267,16 +267,53 @@ button:hover {
     margin-left: 3rem;
     margin-bottom: 2rem;
 }
-.img-koi {
-    width: 100%; /* Chiếm toàn bộ chiều rộng màn hình */
-    height: 50vh; /* Chiếm 50% chiều cao màn hình */
-    overflow: hidden;
-    object-fit: cover; /* Giữ tỉ lệ hình ảnh */
-
+ .Text-center{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.lake-card{
+    background-color: #034159;
+    padding: 1em;
+    border-radius: 8px;
+    align-items: left;
+    width: 350px; 
 }
-
-.img-koi img {
+.lake-info{
+    font-size: 22px;
+    margin: 5px 10px;
+    color: #d1d1d1;
+}
+#parameter-lake{
+    background-color:#1478A6 ;
+    display: flex;
+    justify-content: center;
+    gap: 40px; 
+}
+#blog {
+    background-color: #034159;
     width: 100%;
-    height: 100%;
-    object-fit: cover; /* Giữ tỉ lệ hình ảnh */
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0; /* Loại bỏ margin mặc định */
+    box-sizing: border-box;
+}
+.blog-card{
+    background-color:#1478A6;
+    padding: 1em;
+    border-radius: 8px;
+    width: 300px; 
+    margin-top:50px;
+}
+.blog-container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
 }
