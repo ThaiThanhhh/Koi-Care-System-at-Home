@@ -122,9 +122,10 @@ body {
 #search input[type="text"] {
     padding: 10px;
     height: 50px;
-    width: 200px;
+    width: 230px;
     border: 1px solid #ccc;
     border-radius: 5px 0 0 5px;
+    border-radius: 90px;
 }
 
 #search button {
@@ -134,7 +135,8 @@ body {
     color: white;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
-}
+    display: none;
+} 
 #test{
     background: linear-gradient(90deg, #034159, #147CA6);
     padding: 20px 80px;
@@ -171,17 +173,41 @@ body {
 }
 
 
-#slider {
+/* Phần ảnh đầu trang */
+.img-header{
     width: 100%;
     overflow: hidden;
 }
-
-#slider img {
+.img-header img{
     width: 100%;
-    height: auto;
+    height: auto ;
     object-fit: cover;
+
 }
-/* Phần ảnh đầu trang */
+#Nishikigoi{
+    background-color: #034159;
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px;
+}
+#img-nishikigoi{
+    width: 2000px;
+    height: 500px;
+    padding: 30px 0px; 
+    margin-right: 100px;
+}
+#img-nishikigoi img{
+    width: 100%; 
+    height: 100%;
+    border-radius: 90px;
+
+
+}
+#info-nishikigoi{
+    font-size: medium;
+    margin: 50px 40px;
+    line-height: 30px;
+}
 #img-first {
     width: 100vw;
     height: 50vh; /* Chiếm nửa chiều cao màn hình */
@@ -317,3 +343,58 @@ button:hover {
     justify-content: center;
     gap: 60px;
 }
+/* Trang tin tức */
+.info-section{
+    background-color:#277373;
+
+}
+.title-header{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    gap: 5px;
+    margin-left:200px; 
+   
+}
+.title2{
+    border-bottom: 2px solid white;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    margin-top: 50px; 
+    margin-left:200px;
+    padding-bottom: 10px;
+}
+#img-info{
+    width: 100%;
+    height: 50 vh;
+    margin-left: 250px;
+}
+
+#title-info{
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+#info{
+    line-height: 30px;
+    font-size: medium;
+    margin-left: 200px;
+}
+/* Kết thúc trang tin tức */
+/* bắt đầu trang liên hệ */
+.contact-section{
+    background-color: #034159;
+}
+#contact-info{
+    font-size: medium;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+/* #logo{
+    
+} */
+/* kết thúc trang liên hệ */
