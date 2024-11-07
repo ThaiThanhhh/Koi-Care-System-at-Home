@@ -20,7 +20,7 @@ body {
 }
 
 #header {
-    height: 180px;
+    height: 150px;
     width: 100%;
     background-color: #147CA6;
 }
@@ -160,7 +160,7 @@ body {
     color: white;
     text-decoration: none;
     font-size: 18px;
-    padding: 8px 15px;
+    padding: 8px 10px;
     transition: all 0.3s ease;
     border-radius: 5px;
 }
@@ -345,7 +345,7 @@ button:hover {
 }
 /* Trang tin tức */
 .info-section{
-    background-color:#277373;
+    background-color:#034159;
 
 }
 .title-header{
@@ -398,3 +398,46 @@ button:hover {
     
 } */
 /* kết thúc trang liên hệ */
+
+.info_product-section{
+    background-color: #034159;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+} 
+ #info-product{
+    text-align: left;
+    background-color: #023346;
+    margin: 40px 200px;
+    border-radius: 20px;
+    padding: 20px; 
+ }
+  #info-product{
+    line-height: 30px;
+  }
+  .tag-product-section {
+    display: flex;
+    justify-content: center; /* Căn giữa các thẻ */
+    gap: 100px; /* Khoảng cách giữa các thẻ */
+    padding: 10px 0;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #034159;
+}
+
+.tag-product-card {
+    background-color: #023346;
+    border-radius: 8px;
+    padding: 1em;
+    width: 300px; /* Đặt kích thước cho khung sản phẩm */
+    text-align: left; /*Nội dung bên trong thẻ hiển thị bên trái qua*/
+}
+.tag-product-details{
+    font-size: medium;
+    text-align: left;
+    background-color: #034159;
+    padding: 8px;
+    border-radius:8px; 
+    line-height: 30px;
+}
