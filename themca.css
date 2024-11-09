@@ -316,15 +316,8 @@ nav li:hover .subnav{
     padding: 10px;
     border-radius: 8px;
 }
-.delete{
-    background-color: red;
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-    border-radius: 8px;
-}
 /* Button hover effect */
-.edit:hover, .delete:hover {
+.edit:hover{
     opacity: 0.8;
 }
 

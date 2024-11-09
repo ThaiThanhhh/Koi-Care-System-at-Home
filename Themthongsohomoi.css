@@ -335,6 +335,38 @@ body {
 .btn-save:hover {
     background-color: #FFA500;
 }
+
+.btn-calculate {
+    width: 100%;
+    padding: 10px;
+    background-color: #FFD700;
+    border: none;
+    border-radius: 5px;
+    color: #034159;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.btn-calculate:hover {
+    background-color: #FFA500;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
 /*=======================================*/
 
 #footer{

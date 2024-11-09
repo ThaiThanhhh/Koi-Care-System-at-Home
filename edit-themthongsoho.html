@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Koi Fish Project</title>
-    <link rel="stylesheet" href="themca.css">
+    <link rel="stylesheet" href="Themthongsohomoi.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
@@ -45,10 +45,9 @@
                         <ul class="subnav">
                             <li><a href="tinhtoanluongmuoi.html">Tính toán lượng muối</a></li>
                             <li><a href="tinhtoanluongthucan.html">Tính toán lượng thức ăn</a></li>
-                            <li><a href="">Thêm hồ mới</a></li>
-                            <li><a href="">Thêm thông số hồ</a></li>
+                            <li><a href="index-themho.html">Thêm hồ mới</a></li>
+                            <li><a href="index-themthongsoho.html">Thêm thông số hồ</a></li>
                             <li><a href="index_themca.html">Thêm cá koi</a></li>
-
                         </ul>
                         </li>
                         <li><a href="CaKoiNhat.html">Cá Koi Nhật</a></li>
@@ -59,22 +58,38 @@
 
                 </div>
             </div>
-
-
-        <div class="container">
-            <div class="title-header">
-                <a style="text-decoration: none; color:white;" href="Guest.html">Trang chủ</a>
-                <p> > Dịch vụ > Xóa Cá Koi</p> 
-            </div>
-            <h1 class="title">XÓA CÁ KOI</h1>
-            <form class="form">
-                <label for="ten-ca">Tên cá cần xóa:</label>
-                <input type="text" id="ten-ca" placeholder="Nhập tên cá cần xóa" style="width: 100%;">
-
-                <button style=" background-color: #03222E;color: white;padding: 10px 20px; border: none; border-radius: 20px; cursor: pointer;font-size: 16px;font-weight: bold; margin-left: 10px;" type="submit" class="btn-delete">Xóa Cá</button>
-            </form>
+<!-- content -->
+    <div class="container">
+        <div class="title-header">
+            <a href="Guest.html" style="text-decoration: none; color: white;">Trang chủ</a>
+            <p> > Dịch vụ > Sửa thông số hồ</p>
         </div>
+        <h1 class="title">SỬA THÔNG SỐ HỒ</h1>
+        <form class="form-add-water">
+            <label for="nhietDo">Nhiệt độ:</label>
+            <input type="text" id="nhietDo" placeholder="Nhập nhiệt độ">
 
+            <label for="muoi">Muối:</label>
+            <input type="text" id="muoi" placeholder="Nhập nồng độ muối">
+
+            <label for="pH">pH:</label>
+            <input type="text" id="pH" placeholder="Nhập chỉ số pH">
+
+            <label for="oxy">Oxy:</label>
+            <input type="text" id="oxy" placeholder="Nhập lượng oxy">
+
+            <label for="nitrit">Nitrit:</label>
+            <input type="text" id="nitrit" placeholder="Nhập chỉ số nitrit">
+
+            <label for="nitrat">Nitrat:</label>
+            <input type="text" id="nitrat" placeholder="Nhập chỉ số nitrat">
+
+            <label for="phosphat">Phosphat:</label>
+            <input type="text" id="phosphat" placeholder="Nhập chỉ số phosphat">
+
+            <button type="submit" class="btn-calculate">Lưu thay đổi</button>
+        </form>
+    </div>
 
         <!-- phần footer -->
         <div id="footer-main">   

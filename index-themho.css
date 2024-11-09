@@ -308,6 +308,20 @@ body {
     color: #fff;
     font-style: italic;
 }
+
+.edit{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+/* Button hover effect */
+.delete:hover {
+    opacity: 0.8;
+}
+
+
 /*=======================================*/
 
 #footer{
