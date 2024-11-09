@@ -1,33 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace KoiCareSystem.CSDL;
-
-public partial class CaKoi
+namespace KoiCareSystem.CSDL
 {
-    public int MaCa { get; set; }
+    public class CaKoi
+    {
+        [Key]  
+        public int MaCa { get; set; }  
 
-    public string TenCa { get; set; } = null!;
+        [Required]  
+        [StringLength(100)] 
+        public string TenCa { get; set; }  
 
-    public string? HinhAnh { get; set; }
 
-    public string? KieuDang { get; set; }
+        [StringLength(10)]  
+        public string GioiTinh { get; set; } 
 
-    public int? Tuoi { get; set; }
 
-    public decimal? KichThuoc { get; set; }
+        [StringLength(100)] 
+        public string GiongCa { get; set; } 
 
-    public decimal? CanNang { get; set; }
 
-    public string? GioiTinh { get; set; }
+        [Range(0, double.MaxValue)]  
+        public decimal CanNang { get; set; } 
 
-    public string? GiongCa { get; set; }
+        [Range(0, double.MaxValue)]  
+        public decimal KichThuoc { get; set; } 
 
-    public string? XuatXu { get; set; }
-
-    public decimal? Gia { get; set; }
-
-    public int? MaHo { get; set; }
-
-    public virtual HoCaKoi? MaHoNavigation { get; set; }
+        [StringLength(100)] 
+        public string XuatXu { get; set; }  
+    }
 }

@@ -32,20 +32,20 @@ namespace KoiCareSystem.CSDL
                 entity.ToTable("CaKoi");
 
                 entity.Property(e => e.CanNang).HasColumnType("decimal(10, 2)");
-                entity.Property(e => e.Gia).HasColumnType("decimal(10, 2)");
+                //entity.Property(e => e.Gia).HasColumnType("decimal(10, 2)");
                 entity.Property(e => e.GioiTinh).HasMaxLength(10).IsUnicode(false);
                 entity.Property(e => e.GiongCa).HasMaxLength(100).IsUnicode(false);
-                entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
+                //entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
                 entity.Property(e => e.KichThuoc).HasColumnType("decimal(10, 2)");
-                entity.Property(e => e.KieuDang).HasMaxLength(50).IsUnicode(false);
+                //entity.Property(e => e.KieuDang).HasMaxLength(50).IsUnicode(false);
                 entity.Property(e => e.TenCa).HasMaxLength(100).IsUnicode(false);
                 entity.Property(e => e.XuatXu).HasMaxLength(100).IsUnicode(false);
 
-                entity.HasOne(d => d.MaHoNavigation)
-                    .WithMany(p => p.CaKois)
-                    .HasForeignKey(d => d.MaHo)
-                    .OnDelete(DeleteBehavior.Cascade)
-                    .HasConstraintName("FK__CaKoi__MaHo__31EC6D26");
+                //entity.HasOne(d => d.MaHoNavigation)
+                //    .WithMany(p => p.CaKoi)
+                //    .HasForeignKey(d => d.MaHo)
+                //    .OnDelete(DeleteBehavior.Cascade)
+                //    .HasConstraintName("FK__CaKoi__MaHo__31EC6D26");
             });
 
             modelBuilder.Entity<HoCa>(entity =>
@@ -57,7 +57,7 @@ namespace KoiCareSystem.CSDL
                 entity.Property(e => e.HoId).HasColumnName("HoID");
                 entity.Property(e => e.CongSuatMayBom).HasColumnType("decimal(10, 2)");
                 entity.Property(e => e.DoSau).HasColumnType("decimal(10, 2)");
-                entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
+                //entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
                 entity.Property(e => e.KichThuoc).HasColumnType("decimal(10, 2)");
                 entity.Property(e => e.TenHo).HasMaxLength(100).IsUnicode(false);
                 entity.Property(e => e.TheTich).HasColumnType("decimal(10, 2)");

@@ -21,5 +21,5 @@ public partial class HoCaKoi
 
     public decimal? CongSuatMayBom { get; set; }
 
-    public virtual ICollection<CaKoi> CaKois { get; set; } = new List<CaKoi>();
+    //public virtual ICollection<CaKoi> CaKois { get; set; } = new List<CaKoi>();
 }
