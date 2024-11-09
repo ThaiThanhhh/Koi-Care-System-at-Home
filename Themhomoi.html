@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Koi Fish Project</title>
-    <link rel="stylesheet" href="themca.css">
+    <link rel="stylesheet" href="themhomoi.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
@@ -45,9 +45,9 @@
                         <ul class="subnav">
                             <li><a href="tinhtoanluongmuoi.html">Tính toán lượng muối</a></li>
                             <li><a href="tinhtoanluongthucan.html">Tính toán lượng thức ăn</a></li>
-                            <li><a href="">Thêm hồ mới</a></li>
-                            <li><a href="">Thêm thông số hồ</a></li>
-                            <li><a href="index_themca.html">Thêm cá koi</a></li>
+                            <li><a href="themhomoi.html">Thêm hồ mới</a></li>
+                            <li><a href="themthongsoho.html">Thêm thông số hồ</a></li>
+                            <li><a href="themcakoi.html">Thêm cá koi</a></li>
 
                         </ul>
                         </li>
@@ -56,54 +56,41 @@
                         <li><a href="Tintuc.html">Tin tức</a></li>
                         <li><a href="Lienhe.html">Liên hệ</a></li>
                     </ul>
-                </div>
-            </div>
 
-            <div class="container">
-                <div class="title-header">
-                    <a style="text-decoration: none; color:white;" href="Guest.html">Trang chủ</a>
-                    <p> > Dịch vụ > Thêm cá Koi</p> 
                 </div>
-                <h1 class="title">THÊM CÁ KOI</h1>
-                <P style="font-size: 30px;font-weight: bold;margin-top: 30px;">DANH SÁCH CÁ KOI</P>
+                
             </div>
-            <div>
-                <a id="button-themca" href="giaodienthemca.html"><button>Thêm cá koi mới</button></a>
+        <!-- phần content -->
+        <div class="container">
+            <div class="title-header">
+                <a href="Guest.html" style="text-decoration: none; color: white;">Trang chủ</a>
+                <p> > Dịch vụ > Thêm hồ mới</p>
             </div>
-    <table class="table-themca">
-        <thead>
-            <tr>
-                <th>Tên</th>
-                <th>Tuổi</th>
-                <th>Chiều dài</th>
-                <th>Trọng lượng</th>
-                <th>Giống</th>
-                <th>Giới tính</th>
-                <th>Nguồn gốc</th>
-                <th>Thao tác</th>
-            </tr>
-        </thead>
-        <tbody>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>
-                        <a href="edit-themca.html" class=" edit">Sửa</a>
-                        <a href="delete-themca.html" class="delete">Xóa</a>
-                    </td>
-                </tr>
-        </tbody>
-    </table>
-        
-            
-               <!-- phần footer -->
+            <h1 class="title">THÊM HỒ MỚI</h1>
+            <form class="form-add-pond">
+                <label for="tenHo">Tên hồ:</label>
+                <input type="text" id="tenHo" placeholder="Nhập tên hồ">
+                
+                <label for="doSau">Độ sâu:</label>
+                <input type="text" id="doSau" placeholder="Nhập độ sâu">
+                
+                <label for="theTich">Thể tích:</label>
+                <input type="text" id="theTich" placeholder="Nhập thể tích">
+                
+                <label for="soCongThoat">Số cống thoát:</label>
+                <input type="text" id="soCongThoat" placeholder="Nhập số cống thoát">
+                
+                <label for="congSuatMayBom">Công suất máy bơm:</label>
+                <input type="text" id="congSuatMayBom" placeholder="Nhập công suất máy bơm">
+                
+              <a href="index-themho.html"> <button type="submit" class="btn-save">Lưu</button></a>
+            </form>
+        </div>
 
-<div style="margin-top: 20%;" id="footer-main">   
+
+        <!-- phần footer -->
+
+<div id="footer-main">   
     <div>
         <h1 style="padding-bottom: 20px; margin-left: 40px;">
             Giới thiệu chung
@@ -133,3 +120,6 @@
     
     </body>
     </html>
+            
+</body>
+</html>
