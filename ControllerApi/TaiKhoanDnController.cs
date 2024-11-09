@@ -18,9 +18,24 @@ namespace KoiCareSystem.ControllerApi
         [HttpGet("List")]
         public IActionResult GetList()
         {
-            var accounts = _dbc.TaiKhoanDns.ToList();
-            return Ok(new { data = accounts });
+            try
+            {
+                // Get all accounts from the database
+                var accounts = _dbc.TaiKhoanDns.ToList();
+
+                if (accounts == null || accounts.Count == 0)
+                {
+                    return NotFound(new { message = "No accounts found" });
+                }
+
+                return Ok(new { data = accounts });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message, innerException = ex.InnerException?.Message });
+            }
         }
+
 
         [HttpPost("Insert")]
         public IActionResult InsertTaiKhoan(string taikhoan, string matkhau)

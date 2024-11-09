@@ -48,19 +48,46 @@ namespace KoiCareSystem.CSDL
                 //    .HasConstraintName("FK__CaKoi__MaHo__31EC6D26");
             });
 
+            ////modelBuilder.Entity<CaKoi>(entity =>
+            ////{
+            ////    entity.HasKey(e => e.HoId).HasName("PK__HoCa__6D30D254E229EA44");
+
+            ////    entity.ToTable("HoCa");
+
+            ////    entity.Property(e => e.HoId).HasColumnName("HoID");
+            ////    entity.Property(e => e.CongSuatMayBom).HasColumnType("decimal(10, 2)");
+            ////    entity.Property(e => e.DoSau).HasColumnType("decimal(10, 2)");
+            ////    //entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
+            ////    entity.Property(e => e.KichThuoc).HasColumnType("decimal(10, 2)");
+            ////    entity.Property(e => e.TenHo).HasMaxLength(100).IsUnicode(false);
+            ////    entity.Property(e => e.TheTich).HasColumnType("decimal(10, 2)");
+            ////});
             modelBuilder.Entity<HoCa>(entity =>
             {
-                entity.HasKey(e => e.HoId).HasName("PK__HoCa__6D30D254E229EA44");
+                entity.HasKey(e => e.HoId).HasName("PK_HoCa");
 
                 entity.ToTable("HoCa");
 
                 entity.Property(e => e.HoId).HasColumnName("HoID");
-                entity.Property(e => e.CongSuatMayBom).HasColumnType("decimal(10, 2)");
-                entity.Property(e => e.DoSau).HasColumnType("decimal(10, 2)");
-                //entity.Property(e => e.HinhAnh).HasMaxLength(255).IsUnicode(false);
-                entity.Property(e => e.KichThuoc).HasColumnType("decimal(10, 2)");
-                entity.Property(e => e.TenHo).HasMaxLength(100).IsUnicode(false);
-                entity.Property(e => e.TheTich).HasColumnType("decimal(10, 2)");
+                entity.Property(e => e.TenHo)
+                    .IsRequired()
+                    .HasMaxLength(100)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.KichThuoc)
+                    .HasColumnType("decimal(10, 2)");
+
+                entity.Property(e => e.DoSau)
+                    .HasColumnType("decimal(10, 2)");
+
+                entity.Property(e => e.TheTich)
+                    .HasColumnType("decimal(10, 2)");
+
+                entity.Property(e => e.SoLuongOngThoatNuoc)
+                    .HasColumnType("int");
+
+                entity.Property(e => e.CongSuatMayBom)
+                    .HasColumnType("decimal(10, 2)");
             });
 
             modelBuilder.Entity<HoCaKoi>(entity =>
