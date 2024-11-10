@@ -1,0 +1,376 @@
+/* Reset cơ bản */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Thiết lập font và màu nền cơ bản */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #034159;
+    color: #fff;
+    overflow-x: hidden; 
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#header {
+    height: 180px;
+    width: 100%;
+    background-color: #147CA6;
+}
+/*-------------------------------------------*/
+#header-top {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #034159;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+}
+
+#header-top p, #header-top a {
+    margin: 0;
+    padding: 0 10px;
+    color: #f9f9f9;
+    text-decoration: none;
+}
+
+#sodienthoai, #diachi {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+#sodienthoai i, #diachi i, #dieukhoanchinhsach i, #dangnhap i, #dangki i {
+    margin-right: 6px;
+    color: #ffd700;
+}
+
+#dieukhoanchinhsach {
+    font-size: 14px;
+    margin-left: auto;
+    color: #f9f9f9;
+}
+
+#dangnhapdangki {
+    font-size: 14px;
+}
+
+#dangnhapdangki a {
+    color: #f9f9f9;
+    padding: 0 5px;
+}
+
+#dangnhapdangki a:hover {
+    color: #ffd700;
+}
+
+#header-top a:hover {
+    color: #ffd700;
+    text-decoration: underline;
+}
+
+#header-top p, #header-top a {
+    font-size: 14px;
+    color: white;
+}
+
+#dangnhapdangki a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+/*-------------------------------------------*/
+#header-main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 20px;
+    position: relative;
+}
+
+#header-main {
+    height: 100px;
+    display: flex;
+    gap: 20px;
+}
+#header-main-container img{
+    height: 10  S0px;
+    width: 100px;
+
+}
+
+#social a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+#search {
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+}
+
+#search input[type="text"] {
+    padding: 10px;
+    height: 50px;
+    width: 230px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    border-radius: 90px;
+}
+
+#search button {
+    padding: 10px;
+    background-color: #147CA6;
+    border: none;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    display: none;
+}
+#test{
+    background: linear-gradient(90deg, #034159, #147CA6);
+    padding: 20px 80px;
+    width: 1100px; 
+    margin: 0 auto; 
+    border-radius: 90px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+}
+/*-------------------------------------------*/
+img{
+    width: 100%;
+    height:auto;
+    object-fit: cover;
+}
+
+#nav {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.subnav li {
+    padding: 10px 20px;
+    background-color: #034159;
+}
+
+.subnav a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.subnav a:hover {
+    background-color: #147CA6;
+    color: #FFD700;
+}
+
+nav {
+    position: relative;
+    z-index: 0;
+}
+.subnav{
+margin-top: 7px;
+border-radius: 5px;
+
+}
+#nav .subnav{
+position: absolute;
+background-color: rgba(255, 255, 255, 0);
+list-style-type: none;
+padding-top: 10px;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+#nav li .subnav {
+    display: none;
+}
+
+#nav li:hover .subnav {
+    display: block;
+}
+nav li:hover .subnav{
+    display: block;
+}
+#nav li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 15px;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+}
+#dichvu::after{
+    content: '\25BC';
+    font-size: 10px;
+    margin-left: 5px;
+
+}
+#nav li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    color:aquamarine;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/*=======================================*/
+.container {
+ 
+    margin: 0 auto;
+    background-color: #034159;
+    padding: 30px;
+    
+}
+.title-header{
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    gap: 5px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+     
+}
+
+.title {
+    font-size: 28px;
+    text-align: left;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #B0C4DE;
+    padding-bottom: 10px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+
+.btn-calculate {
+    width: 100%;
+    padding: 10px;
+    background-color: #FFD700;
+    border: none;
+    border-radius: 5px;
+    color: #034159;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.btn-calculate:hover {
+    background-color: #FFA500;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+.result h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.result p{
+    line-height: 30px;
+}
+/*=======================================*/
+#footer{
+    background-color: #03222E;
+    display: flex;
+
+}
+#footer-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #03222E;
+}
+
+#footer-main h1{
+    padding-left: 70px;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+#footer-main ul{
+    padding-top: 10px;
+    padding-left: 70px;
+    font-size: larger;
+    padding-bottom: 10px;
+}
+#footer-social a{
+    font-size: 30px;
+    margin-left: 40px;
+    line-height: 50px;
+}
+#fb{
+    color: mediumblue;
+}
+#tt{
+    color: black;
+}
+#yt{
+    color: red;
+}
+#tw{
+    color: lightblue;
+}
+#logo{
+    width: 300px;
+    height: 300px;
+}
+#footer-bot {
+    width: 100vw;
+    background-color: #12526B; 
+    color: white; 
+    text-align: center; 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+}
+
+#footer-bot h3 {
+    margin-top: 0; 
+    font-size: 24px; 
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+#footer-bot p {
+    margin: 10px 0 0 0; 
+    line-height: 1.6; 
+    font-size: 16px; 
+    max-width: 900px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#logo {
+    margin-left: 60%;
+    margin-top: -290px;
+    display: block;
+    width: 300px; 
+    height: 300px;
+}
+#logo img{
+    margin-bottom: 100px;
+}
