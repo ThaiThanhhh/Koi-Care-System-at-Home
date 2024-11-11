@@ -1,0 +1,333 @@
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.exe
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.deps.json
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.runtimeconfig.json
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.pdb
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\thaiweb\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.AssemblyReference.cache
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfoInputs.cache
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfo.cs
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.CoreCompileInputs.cache
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.Up2Date
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.dll
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\refint\Testdiss.dll
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.pdb
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.genruntimeconfig.cache
+D:\thaiweb\KoiCareSystem\Testdiss\obj\Debug\net8.0\ref\Testdiss.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.exe
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.deps.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.runtimeconfig.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.pdb
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.AssemblyReference.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfoInputs.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfo.cs
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.CoreCompileInputs.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.Up2Date
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\refint\Testdiss.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.pdb
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.genruntimeconfig.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\Testdiss\obj\Debug\net8.0\ref\Testdiss.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.exe
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\testhost.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.deps.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.runtimeconfig.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Testdiss.pdb
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.AssemblyReference.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfoInputs.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.AssemblyInfo.cs
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.CoreCompileInputs.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.csproj.Up2Date
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\refint\Testdiss.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.pdb
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\Testdiss.genruntimeconfig.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\Testdiss\obj\Debug\net8.0\ref\Testdiss.dll

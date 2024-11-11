@@ -1,0 +1,867 @@
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+D:\thaiweb\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+D:\Dự án\KoiCareSystem\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+C:\Users\pc\Documents\Zalo Received Files\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\THAI VAN THANH\source\repos\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+C:\Users\THAI VAN THANH\source\repos\Hoàn Thiện\KoiCareSystem (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.staticwebassets.runtime.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.exe
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.deps.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.runtimeconfig.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.AssemblyReference.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfoInputs.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.AssemblyInfo.cs
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.RazorAssemblyInfo.cs
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.KoiCareSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiCareSystem.props
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiCareSystem.props
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiCareSystem.props
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\bundle\KoiCareSystem.styles.css
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\scopedcss\projectbundle\KoiCareSystem.bundle.scp.css
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareS.AF68EDB2.Up2Date
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\refint\KoiCareSystem.dll
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.pdb
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\KoiCareSystem.genruntimeconfig.cache
+C:\Users\hi\Documents\Zalo Received Files\KoiCareSystempremium (1)\KoiCareSystem\KoiCareSystem\obj\Debug\net8.0\ref\KoiCareSystem.dll
